@@ -12,4 +12,4 @@ Current research topics include BVLOS RPAS and legged robots.
 
 ### Contact me
 
-[e.aidanbarber@gmail.com](mailto:e.aidanbarber@gmail.com)
+[aidan.reece.barber@gmail.com](mailto:aidan.reece.barber@gmail.com)
