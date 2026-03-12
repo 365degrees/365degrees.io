@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Aidan is masters student under supervisor Dr. Scott Nokleby in the MARS lab at Ontario Tech university.
+Consulting Company
 
-### Current Research
+### Contact
 
-Current research topics include BVLOS RPAS and legged robots.
-
-### Contact me
-
-[aidan.reece.barber@gmail.com](mailto:aidan.reece.barber@gmail.com)
+[Email](mailto:365degreesservices@gmail.com)
