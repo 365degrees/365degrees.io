@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-Consulting Company
-
 ### Program and Policy Evaluation and Review
 What makes a good program? How can we be sure these programs are working? After we review a program, how can systems-level changes be made to support individuals and communities that programs were intended to support in the first place? These are the questions we are always asking at 365 Degrees. Our evaluation services can be combined with training services to help upgrade your team’s program understanding and skillsets. 
 
